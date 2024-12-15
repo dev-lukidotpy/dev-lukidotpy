@@ -1,12 +1,12 @@
 <h1 align="center"> Welcome to my profile, devs!  👨‍💻 </h1>
 <img align="center" alt="skill issue" src="https://miro.medium.com/v2/resize:fit:1400/1*wNGxHlTCsH9zU90WDouoDQ.gif">
 
-<h2> My name is Lucas Davi, but you can call me Luki! ⌨️ </h2>
+<h2> My name is Lucas Davi, but you may call me Luki! ⌨️ </h2>
 <p> I'm just starting my journey in the magical world (as it seems) of programming! 🌟 </p>
 <p> Following you will find projects I'm currently in, stuff I know and what I'm learning, as well as general info about me and my interests! </p><br>
 
 <h2> About me  🤵 </h2>
-<p> I'm 21 years old and live in Joinville, Santa Catarina 🇧🇷 </p>
+<p> I'm 22 years old and live in Joinville, Santa Catarina 🇧🇷 </p>
 <p> I'm a first year Software Engineering student at Univille University, in Joinville/SC. </p>
 <p> I like to research by myself, so I'm kinda self taught. </p>
 <p> Although I don't have any experience with programming and just started researching, I've learned some cool stuff and I'm looking for an opportunity.</p>
