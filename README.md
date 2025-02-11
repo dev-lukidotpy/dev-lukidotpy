@@ -25,7 +25,6 @@
     <li> Arduino </li>
     <li> C </li>
     <li> RESTful API </li>
-    <li> JavaScript </li>
     <li> Database theory (ERM/SQL) </li>
     <li> How the web works (DNS, HTTP & HTTPs, requests etc.) </li>
     <li> Object Oriented Programming (OOP) </li>
