@@ -10,7 +10,6 @@
 <p> I'm a second year Software Engineering student at Universidade da Região de Joinville - FURJ Univille, in Joinville/SC </p>
 <p> I like to do research by myself too, I've learned many things as self-taught student </p>
 <p> Although I don't have any experience with programming and just started researching, I've learned some cool stuff and I'm looking for an opportunity </p>
-<p> I'm don't have any job yet! </p>
 <p> More coming soon! </p>
 <br>
 
